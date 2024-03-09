@@ -1,0 +1,7 @@
+{
+    "dotnet.preferCSharpExtension": true,
+    "dotnetAcquisitionExtension.existingDotnetPath": [
+        8.0
+        ],
+        "nuget.autoOpenOutputWindowOnRestore": "on"
+}
